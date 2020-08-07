@@ -1,0 +1,2 @@
+ssim_pilot_ov	ssim_wtedrecon_ov	ssim_irrad_ov	rmse_pilot_ov	rmse_wtedrecon_ov	rmse_irrad_ov	ssim_pilot_roi	ssim_wtedrecon_roi	ssim_irrad_roi	rmse_pilot_roi	rmse_wtedrecon_roi	rmse_irrad_roi
+0.259986	0.603956	0.278694	0.084562	0.063636	0.119874	0.500874	0.694470	0.667358	0.110238	0.090903	0.214664
