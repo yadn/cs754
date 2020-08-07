@@ -1,4 +1,0 @@
-ssim_pilot_ov	ssim_wtedrecon_ov	ssim_irrad_ov	rmse_pilot_ov	rmse_wtedrecon_ov	rmse_irrad_ov	ssim_pilot_roi	ssim_wtedrecon_roi	ssim_irrad_roi	rmse_pilot_roi	rmse_wtedrecon_roi	rmse_irrad_roi
-0.259986	0.592806	0.146369	0.084562	0.052755	0.144295	0.500874	0.688598	0.274896	0.110238	0.069238	0.276954
-ssim_pilot_ov	ssim_wtedrecon_ov	ssim_irrad_ov	rmse_pilot_ov	rmse_wtedrecon_ov	rmse_irrad_ov	ssim_pilot_roi	ssim_wtedrecon_roi	ssim_irrad_roi	rmse_pilot_roi	rmse_wtedrecon_roi	rmse_irrad_roi
-0.259986	0.608953	0.153706	0.084562	0.065916	0.134361	0.500874	0.791335	0.665132	0.110238	0.082506	0.203533
